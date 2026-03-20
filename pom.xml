@@ -12,9 +12,9 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>debezium-oracle-listener-only</artifactId>
+    <artifactId>debezium-oracle-ssm-listener</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>debezium-oracle-listener-only</name>
+    <name>debezium-oracle-ssm-listener</name>
     <description>Minimal Debezium Oracle embedded listener extracted from OracleDBListenerDemoIdea</description>
 
     <properties>
